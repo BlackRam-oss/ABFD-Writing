@@ -1,3 +1,5 @@
+This is the Writing repo of [ABFD](https://github.com/users/DonRP/projects/3)
+
 ## Translator
 
 If you are a translator you can translate the game [here](https://crowdin.com/project/ABFD). If you want to do it for a long time contact me I will see if I can help you.

@@ -6,6 +6,9 @@ If you are a translator you can translate the game [here](https://crowdin.com/pr
 
 If you want to help me in writing to create a new quest or modify it: create a new Issues [here](https://drincs-website.web.app/report). To then for writing I suggest to use [Microsoft Word online](https://www.microsoft.com/it-it/microsoft-365/free-office-online-for-the-web) (share me the lilnk of your work).
 
+
+I recommend writing in your native language if you are not fluent in English. We will translate it into the other languages.
+
 #### Legend from word file
 | Text Color | Type  | Description | Requirements |
 | ------------- | ------------- | ------------- | ------------- |
